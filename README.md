@@ -168,13 +168,5 @@ COR_MAXIMA = np.array([15, 188, 255])
 
 ---
 
-## Aplicações
-
-* Ensino de Física
-* Experimentos de baixo custo
-* Visão Computacional
-* Análise de movimento
-* Projetos educacionais
-
 ---
 
