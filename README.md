@@ -111,11 +111,7 @@ python3 app.py
 ---
 
 ## Resultados
-
 ### Velocidade
-
-![Velocidade](images/grafico_velocidade.png)
-
 ### Aceleração
 
 ![Aceleração](images/grafico_aceleracao.png)
