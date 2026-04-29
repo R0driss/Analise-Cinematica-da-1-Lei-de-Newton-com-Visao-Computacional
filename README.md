@@ -1,0 +1,1 @@
+# An-lise-Cinem-tica-da-1-Lei-de-Newton-com-Vis-o-Computacional
