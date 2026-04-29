@@ -113,9 +113,6 @@ python3 app.py
 ## Resultados
 ### Velocidade
 ### Aceleração
-
-![Aceleração](images/grafico_aceleracao.png)
-
 ### Rastreamento em Tempo Real
 
 ![Demo](images/demo.gif)
